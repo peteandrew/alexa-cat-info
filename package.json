@@ -1,0 +1,17 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
